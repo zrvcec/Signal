@@ -1,5 +1,7 @@
+-- Hi
 local Signal = {} :: Signal
 Signal.__index = Signal
+
 
 local Connection = {} :: Connection
 Connection.__index = Connection
